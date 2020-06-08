@@ -46,11 +46,11 @@ body{
 }
 @keyframes animate{
 	0%,50%{
-		background-image: url(../css/wish1.jpg);
-		-o-background-image: url(../css/wish1.jpg);
+		background-image: url(wish1.jpg);
+		-o-background-image: url(wish1.jpg);
 	}
 	25%{
-		background-image: url(../css/wish.jpg);
-		-o-background-image: url(../css/wish.jpg);
+		background-image: url(wish.jpg);
+		-o-background-image: url(wish.jpg);
 	}
 }
